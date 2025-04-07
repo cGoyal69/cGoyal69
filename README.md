@@ -1,7 +1,7 @@
-# ✨ Hello World, I'm Harsh! 👋  
+# ✨ Hello World, I'm Chirag! 👋  
 
 <!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Enthusiast;App+Development;Language+Models!;Competitive+Programming;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+Development;Data+Enthusiast;App+Development;Language+Models!;Competitive+Programming;)
 
 
 ## 🚀 About Me  
@@ -87,8 +87,8 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KDHarsh24&show_icons=true&theme=radical" alt="Harsh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHarsh24&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cGoyal69&show_icons=true&theme=radical" alt="Harsh's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cgoyal69&theme=radical" alt="GitHub Streak" />
 </div>
 
 
@@ -97,10 +97,10 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/kdharsh24" target="_blank">
+  <a href="https://linkedin.com/in/chiraggoyal96" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://kdharsh24.github.io" target="_blank">
+  <a href="https://cgoyal.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
   </a>
 </p>
