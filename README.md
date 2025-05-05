@@ -3,7 +3,6 @@
 <!-- Animated Header -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+Development;Data+Enthusiast;App+Development;Language+Models!;Competitive+Programming;)
 
-
 ## 🚀 About Me  
 🎓 **CSE Student @ IIIT Manipur**  
 💡 **Passionate about Web, AI, Data Science, Natural Language Processing, LLMs**  
@@ -48,6 +47,8 @@
       <br>
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=mysql&logoColor=white" alt="SQLite"> 
       <img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">  
+      <br>
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform (GCP)">  
     </td>
     <td>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">  
@@ -84,15 +85,14 @@
   </tr>
 </table>
 
-
 ----
 
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cGoyal69&show_icons=true&theme=radical" alt="Harsh's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cgoyal69&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGoyal69&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
 
 ---
 
