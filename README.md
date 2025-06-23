@@ -1,7 +1,7 @@
 # ✨ Hello World, I'm Chirag! 👋  
 
 <!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+Development;Data+Enthusiast;App+Development;Language+Models!;Competitive+Programming;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=0099FF¢er=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+Development;Data+Enthusiast;App+Development;Language+Models!;Competitive+Programming;)
 
 ## 🚀 About Me  
 🎓 **CSE Student @ IIIT Manipur**  
@@ -72,8 +72,6 @@
       <br>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">  
       <br>
-      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">  
-      <br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">  
       <br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">  
@@ -90,7 +88,7 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cGoyal69&show_icons=true&theme=radical" alt="Harsh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cgoyal69&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=cgoyal69&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGoyal69&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
