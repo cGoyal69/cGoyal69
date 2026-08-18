@@ -87,7 +87,7 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cGoyal69&show_icons=true&theme=radical" alt="Harsh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cGoyal69&show_icons=true&theme=radical" alt="Chirag's GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=cgoyal69&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGoyal69&layout=compact&theme=radical" alt="Top Languages" />
 </div>
